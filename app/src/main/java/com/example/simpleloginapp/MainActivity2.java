@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.Toast;
+public native string  msg();
 
 public class MainActivity2 extends AppCompatActivity {
 
